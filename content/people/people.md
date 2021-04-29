@@ -19,11 +19,12 @@ content:
   - Principal Investigators
   - Researchers
   - Grad Students
+  - Collaborators
   - Administration
   - Visitors
   - Alumni
 design:
-  show_interests: true
+  show_interests: false
   show_role: true
   show_social: true
 ---
