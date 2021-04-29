@@ -53,7 +53,7 @@ superuser: true
 authors:
   - admin
 user_groups:
-  - Co-I
+  - Researchers
 ---
 Dr Di Luca is Senior Lecturer at the University of Birmingham in the Centre for Computational Neuroscience and Cognitive
   Robotics. He performs both fundamental and applied research to investigate how humans process multisensory stimuli, with an accent on understanding the temporal, dynamic, and interactive nature of perception. He uses psychophysical experiments and neuroimaging methods to capture how the brain employs multiple sources of sensory information and combines them with assumptions, predictions, and information obtained through active exploration.
