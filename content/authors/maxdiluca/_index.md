@@ -1,5 +1,5 @@
 ---
-title: Max Di Luca
+title: Massimiliano Di Luca
 role: Senior Lecturer
 avatar_filename: avatar.jpg
 bio: Dr Di Luca is Senior Lecturer at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive
@@ -51,7 +51,7 @@ education:
 email: ""
 superuser: true
 authors:
-  - admin
+  - maxdiluca
 user_groups:
   - Researchers
 ---
