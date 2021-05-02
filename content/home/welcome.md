@@ -17,4 +17,14 @@ css_style:
 css_class:
 ---
 
-This it the webpage of the project "Taking the rough with the smooth: aging effects on tactile surface texture perception" which has been funded by BBSRC between Jan 18 - Apr 21
+This it the webpage of the project "Taking the rough with the smooth: aging effects on tactile surface texture perception" which has been funded by BBSRC to run between January 2018 and December 2020. Due to the hurdles of the pandemic, the project has been extended until August 2021. The project is a collaboration between the University of Birmingham, the University of Nottingham, and Procter & Gamble.
+
+The project involves 13 studies, grouped into 3 work packages:
+
+<ul>
+<li>WP1, with 7 studies, focuses on psychophysics and modelling of texture discrimination (O1,O3).</li>
+
+<li>WP2, with 3 studies, centres on brain function through functional imaging and electrical stimulation (O2).</li>
+
+<li>WP3, with 3 studies, translates the research findings into understanding surface texture perception in the applied context of discriminating changes in surface coating due to the use of surfactants (washing up liquid) to remove grease and deposits when hand washing plates (O4). WP3 is being run in collaboration with Procter &amp; Gamble BIC.</li>
+</ul>
