@@ -9,6 +9,10 @@
 #  weight = 10
 
 
+[[main]]
+  name = "Information"
+  url = "information"
+  weight = 20
 
 [[main]]
   name = "People"
