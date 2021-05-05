@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title:
 subtitle:
@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: "1"
   background:
-    image:
+    image: 'touching.jpg'
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["50px", "0", "35px", "0"]
 advanced:
-  css_class: fullscreen
+  css_class: ""
 ---
