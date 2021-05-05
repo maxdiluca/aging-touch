@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Aging Touch: Systematic and Unbiased
-Presentation of Tactile Stimuli'
+title: 'Aging Touch: Systematic and Unbiased Presentation of Tactile Stimuli'
 subtitle: ''
 summary: ''
 authors:
@@ -38,6 +37,6 @@ publication_types:
 - '4'
 abstract: This report presents the experimental methodology and a step-by-step guide for gathering data on how aging influences tactile surface perception in decision and action. The experiments consist of a set of trials in which the ability to distinguish tactile stimuli is investigated. A robot arm is used to provide a systematic and unbiased presentation of the stimuli.
 publication: '*arXiv*'
-url_pdf: http://arxiv.org/abs/2003.01427v1
+url_code: http://arxiv.org/abs/2003.01427v1
 
 ---
