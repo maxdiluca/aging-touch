@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Nottingham
-    url: "http:// https://www.nottingham.ac.uk/psychology/people/h.a.allen"
+    url: "https://www.nottingham.ac.uk/psychology/people/h.a.allen"
 
 # Short bio (displayed in user profile at end of posts as a single sentence)
 bio: Dr Allen is an Associate Professor at the University of Nottingham and an Honorary Senior Research Fellow at University of Birmingham.
