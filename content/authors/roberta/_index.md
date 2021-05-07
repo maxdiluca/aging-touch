@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:  
+role:  Research fellow
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
+- icon: linkedin
+  icon_pack: fab  
+  link: https://www.linkedin.com/in/roberta-roberts-5b1bb4191/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
