@@ -32,7 +32,7 @@ education:
     institution: University of Birmingham
     year: 2005
   - course: BSc Psychology and Artificial Intelligence
-    Institution: University of Birmingham
+    institution: University of Birmingham
     year: 1997
 
 # Social/Academic Networking
