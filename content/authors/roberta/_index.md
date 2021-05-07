@@ -14,17 +14,26 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
+- name:  University of Birmingham
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
 
 interests:
+- Haptic perception
+- Movement control for sensing
+- Sensory psychophysics
+
 
 education:
   courses:
-
+  - course: PhD in Psychology
+    institution: University of Birmingham
+    year: 2005
+  - course: BSc Psychology and Artificial Intelligence
+    Institution: University of Birmingham
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,3 +51,4 @@ user_groups:
 - Principal Investigators
 
 ---
+Dr Roberts is a research fellow in psychology. She is interested in understanding haptic experiences, particularly those involving the hands. Her work is primarily focused on using psychophysical approaches to understand haptic and multisensory perception. Recent work has included fMRI, motion and force analyses to understand texture perception in the young and elderly.  
