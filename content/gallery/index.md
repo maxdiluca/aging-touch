@@ -9,16 +9,16 @@ header:
 
 </br>
 <h1>Research</h1>
-{{< gallery "research" >}}
+{{< gallery album="research" >}}
 
 </br>
 <h1>Conferences</h1>
-{{< gallery "conferences" >}}
+{{< gallery album="conferences" >}}
 
 </br>
 <h1>Social</h1>
-{{< gallery "social" >}}
+{{< gallery album="social" >}}
 
 </br>
 <h1>Publicity</h1>
-{{< gallery "publicity" >}}
+{{< gallery album="publicity" >}}
