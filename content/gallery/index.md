@@ -13,12 +13,12 @@ header:
 
 </br>
 <h1>Conferences</h1>
-{{< gallery "Conferences" >}}
+{{< gallery "conferences" >}}
 
 </br>
 <h1>Social</h1>
-{{< gallery "Social" >}}
+{{< gallery "social" >}}
 
 </br>
 <h1>Publicity</h1>
-{{< gallery "Publicity" >}}
+{{< gallery "publicity" >}}
