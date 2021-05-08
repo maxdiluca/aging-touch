@@ -8,4 +8,4 @@ header:
 ---
 
 
-{{< gallery "art" >}}
+{{< gallery "gallery" >}}
