@@ -6,3 +6,9 @@
 public/
 assets/jsconfig.json
 content/authors/.DS_Store
+.DS_Store
+config/.DS_Store
+content/.DS_Store
+content/gallery/.DS_Store
+static/.DS_Store
+static/media/.DS_Store
