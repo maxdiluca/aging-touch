@@ -4,26 +4,44 @@ title: Claudio Zito
 
 # Username (this should match the folder name)
 authors:
-- Claudio
+- claudio
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:  
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
+  - name: University of Birmingham
+    url: "https://www.memnone.net/"
+organizations:
+  - name: Autonomous Robotics Research Centre (ARRC) - Technology Innovation Institute (TII)
+    url: "https://autonomousrobotics.tii.ae/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: Dr Zito is Senior Research Fellow at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics, and Lead Scientist at the Technology Innovation Institute (UAE) in the Autonomous Robotics Research Centre. 
 
 interests:
+  - Computational modelling
+  - Robot grasping and manipulation
+  - Machine learning
+  - Human-robot interaction
+
 
 education:
-  courses:
+  courses:
+    - course: PhD in Intelligent Robotics
+      institution: University of Birmingham (UK)
+      year: 2015
+    - course: MPhil in Machine Learning and AI systems
+      institution: Universitá di Pisa (Italy)
+      year: 2010
+    - course: BS in Math and Computer Science
+      institution: Universitá degli studi di Siena (Italy)
+      year: 2002	  
 
 
 # Social/Academic Networking
@@ -31,7 +49,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:Claudio.Zito@tii.ae' 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/claudio_zito
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=HUHD3p4AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/memnone
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/claudiozito/
+- icon: orcid
+  icon_pack: fab  
+  link: https://orcid.org/0000-0002-2943-3518
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -42,3 +77,8 @@ user_groups:
 - Alumni
 
 ---
+Dr Zito's main research interest is in mapping perception into actions to model intelligent behaviours for next-gen AI systems. Perception is hard and uncertain in real-world tasks, autonomous systems have the need of computational models for i) inferring the current state of the world from noisy sensors; ii) making predictions on how their actions will effect changes in the state, given unknown or uncertain dynamics; and select the most resonable actions for safety completing the desired task. Dr Zito employs a combination of model-based and data-driven machine learning approaches to provide robust autonomous reasoning to machines that have to interact with the physical world.  
+
+
+
+
