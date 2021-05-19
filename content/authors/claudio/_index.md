@@ -34,10 +34,10 @@ education:
       institution: University of Birmingham (UK)
       year: 2015
     - course: MPhil in Machine Learning and AI systems
-      institution: Universitá di Pisa (Italy)
+      institution: Universita' di Pisa (Italy)
       year: 2010
     - course: BS in Math and Computer Science
-      institution: Universitá degli studi di Siena (Italy)
+      institution: Universita' degli studi di Siena (Italy)
       year: 2002	  
 
 
