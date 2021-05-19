@@ -17,7 +17,7 @@ organizations:
   - name: University of Birmingham
     url: "https://www.memnone.net/"
   - name: Autonomous Robotics Research Centre (ARRC) - Technology Innovation Institute (TII)
-   url: "https://autonomousrobotics.tii.ae/"
+    url: "https://autonomousrobotics.tii.ae/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr Zito is Senior Research Fellow at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics, and Lead Scientist at the Technology Innovation Institute (UAE) in the Autonomous Robotics Research Centre. 
