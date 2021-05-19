@@ -26,7 +26,7 @@ interests:
 - Computational modelling
 - Robot grasping and manipulation
 - Machine learning
-- Human-robot interaction
+- Human Robot interaction
 
 
 education:
