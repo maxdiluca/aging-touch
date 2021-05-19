@@ -16,7 +16,8 @@ role: Senior Research Fellow
 organizations:
   - name: University of Birmingham
     url: "https://www.memnone.net/"
-
+  - name: Autonomous Robotics Research Centre (ARRC) - Technology Innovation Institute (TII)
+   url: "https://autonomousrobotics.tii.ae/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr Zito is Senior Research Fellow at the University of Birmingham (UK) in the Centre for Computational Neuroscience and Cognitive Robotics, and Lead Scientist at the Technology Innovation Institute (UAE) in the Autonomous Robotics Research Centre. 
@@ -29,10 +30,16 @@ interests:
 
 
 education:
-  courses:
-    - course: PhD in Intelligent Robotics
-      institution: University of Birmingham (UK)
-      year: 2015
+  courses:
+- course: PhD in Intelligent Robotics
+      institution: University of Birmingham (UK)
+      year: 2015
+- course: MPhil in Machine Learning and AI systems
+      institution: Universita' di Pisa (Italy)
+      year: 2012
+    - course: BS in Math and Computer Science
+      institution: Universita' degli studi di Siena (Italy)
+      year: 2002	  
 
 
 
@@ -42,23 +49,23 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: 'mailto:Claudio.Zito@tii.ae' 
+  icon_pack: fas
+  link: 'mailto:Claudio.Zito@tii.ae' 
 - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/claudio_zito
+  icon_pack: fab
+  link: https://twitter.com/claudio_zito
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=HUHD3p4AAAAJ&hl=en
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=HUHD3p4AAAAJ&hl=en
 - icon: github
-  icon_pack: fab
-  link: https://github.com/memnone
+  icon_pack: fab
+  link: https://github.com/memnone
 - icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/claudiozito/
+  icon_pack: fab
+  link: https://www.linkedin.com/in/claudiozito/
 - icon: orcid
-  icon_pack: fab  
-  link: https://orcid.org/0000-0002-2943-3518
+  icon_pack: fab  
+  link: https://orcid.org/0000-0002-2943-3518
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
