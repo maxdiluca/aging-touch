@@ -16,7 +16,7 @@ role: Senior Research Fellow
 organizations:
   - name: University of Birmingham
     url: "https://www.memnone.net/"
-  - name: Autonomous Robotics Research Centre (ARRC) - Technology Innovation Institute (TII)
+  - name: Autonomous Robotics Research Centre (ARRC), Technology Innovation Institute (TII)
     url: "https://autonomousrobotics.tii.ae/"
 
 # Short bio (displayed in user profile at end of posts)
