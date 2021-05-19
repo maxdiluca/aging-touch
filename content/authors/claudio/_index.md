@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-- course: PhD in Intelligent Robotics
+    - course: PhD in Intelligent Robotics
       institution: University of Birmingham (UK)
       year: 2015
-- course: MPhil in Machine Learning and AI systems
+    - course: MPhil in Machine Learning and AI systems
       institution: Universita' di Pisa (Italy)
       year: 2012
     - course: BS in Math and Computer Science
