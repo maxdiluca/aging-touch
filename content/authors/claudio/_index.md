@@ -35,7 +35,7 @@ education:
       year: 2015
     - course: MPhil in Machine Learning and AI systems
       institution: Universita' di Pisa (Italy)
-      year: 2010
+      year: 2012
     - course: BS in Math and Computer Science
       institution: Universita' degli studi di Siena (Italy)
       year: 2002	  
